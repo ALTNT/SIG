@@ -10,6 +10,7 @@
 ## 小组管理员
 
 - [ALTNT](https://github.com/ALTNT)
+- [wxp19831104](https://github.com/wxp19831104)
 
 ## 小组成员
 
